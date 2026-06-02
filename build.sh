@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-python3 src/main.py "/static_aovolov/"
+python3 src/main.py "/static_site_generator/"
